@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3C46-F0CE
+
+ Directory of C:\Users\PC\Desktop\MyProject
+
+10/06/2019  09:00 PM    <DIR>          .
+10/06/2019  09:00 PM    <DIR>          ..
+10/06/2019  08:23 PM                22 index.html
+10/06/2019  08:22 PM                 6 test1.txt
+10/06/2019  09:00 PM                 0 test2.txt
+               3 File(s)             28 bytes
+               2 Dir(s)  45,780,987,904 bytes free
